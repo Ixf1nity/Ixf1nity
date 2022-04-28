@@ -10,8 +10,7 @@ I am a Java Developer that is experienced with Server Administration and Minecra
 
 * InfinityAnnouncer ( [Source Code](https://github.com/Ixf1nity/InfinityAnnouncer) )
 * Simple-API ( [Source Code](https://github.com/Ixf1nity/Simple-API) )
-*I mostly make private projects so these are only 2 public ones..*
-*more coming soon!*
+*Many more private projects and more coming soon..*
 
 ## Current Projects
 
@@ -50,3 +49,6 @@ Server IP: `SERVER_NOT_RELEASED_JOIN_DISCORD`
 ``I am currently developing on UltraWorldManager & WoolWars.``
 
 ***
+
+## Github Statistics
+![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
