@@ -10,7 +10,7 @@ I am a Java Developer that is experienced with Server Administration and Minecra
 
 * InfinityAnnouncer ( [Source Code](https://github.com/Ixf1nity/InfinityAnnouncer) )
 * Simple-API ( [Source Code](https://github.com/Ixf1nity/Simple-API) )
-*Many more private projects and more coming soon..*
+*Many more private projects*
 
 ## Current Projects
 
