@@ -4,7 +4,7 @@
 
 ## About Me
 I am a Java Developer that is experienced with Server Administration and Minecraft Plugin Development for
-7 months (since, October 2021). Here you can find my past or current project I have worked for.
+7 months (since, October 2021). I love to hear Music, Smart Work > Hard Work
 
 ## Projects I’ve contributed
 
