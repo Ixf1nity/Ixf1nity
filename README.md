@@ -3,7 +3,7 @@
 <h3>I'm a Java & Spigot Developer from India <img src="https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png" width="30px"></h3>
 
 ## About Me
-I am a Java Developer that is experienced with Server Administration and Minecraft Plugin Development for
+I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development for
 7 months (since, October 2021). I love to hear Music, Smart Work > Hard Work
 
 ## Projects I’ve contributed
