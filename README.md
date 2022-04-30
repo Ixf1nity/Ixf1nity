@@ -50,5 +50,11 @@ Server IP: `SERVER_NOT_RELEASED_JOIN_DISCORD`
 
 ***
 
+## Past Projects
+
+> **IndoPvP**
+> Date: (Saturday) 30 April, 2022
+> Reason: Resigned, Unactive staff-team
+
 ## Github Statistics
 ![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
