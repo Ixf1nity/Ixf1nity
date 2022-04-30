@@ -32,7 +32,7 @@ Server IP: `play.crackpixel.net`
 
 `I am currently developing MLG Rush, Server Core & Helping in setup/configuration`
 
-Server IP: `SERVER_NOT_RELEASED_JOIN_DISCORD`
+Server IP: `bedwars.space *(Maintenance)*`
 
 ****
 > **Refine Development**
