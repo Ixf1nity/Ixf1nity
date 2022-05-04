@@ -58,5 +58,11 @@ Server IP: `bedwars.space *(Maintenance)*`
 
 ****
 
+> **Crackpixel Network**
+ * Date: (Wednesday) 04 May, 2022
+ * Reason: Resigned, offline schools starting & lack of intrust.
+
+****
+
 ## Github Statistics
 ![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
