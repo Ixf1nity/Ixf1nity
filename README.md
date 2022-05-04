@@ -14,17 +14,6 @@ I am a Java Developer that is experienced with Minecraft Server Management and P
 
 ## Current Projects
 
-> **Crackpixel Network**
-Developer
-
-[Crackpixel](https://discord.gg/u79Pec9D5S) is a clone of the Hypixel server for players without a Minecraft account. it currently has multiple gamemodes from the hypixel network including BedWars, The Pit, Skyblock and PvP.
-
-```I am currently developing Rank BedWars and helping in setup/configuration.```
-
-Server IP: `play.crackpixel.net`
-
-****
-
 >  **BedWars Space**
 >  Developer
 
