@@ -55,3 +55,5 @@ Server IP: `bedwars.space *(Maintenance)*`
 
 ## Github Statistics
 ![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Ixf1nity.Ixf1nity&style=for-the-badge)
