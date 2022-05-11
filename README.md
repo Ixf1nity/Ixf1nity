@@ -38,7 +38,7 @@ Server IP: `bedwars.space *(Maintenance)*`
 ``I am currently developing on UltraWorldManager & WoolWars.``
 
 ****
-> **Arcade Labs**
+> **ArcadeLabs**
 > Staff
 > 
 [ArcadeLabs](https://discord.gg/AMgpWM5w57) is a community, VFX & development server.
