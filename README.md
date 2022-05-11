@@ -37,8 +37,15 @@ Server IP: `bedwars.space *(Maintenance)*`
 
 ``I am currently developing on UltraWorldManager & WoolWars.``
 
-***
+****
+> **Arcade Labs**
+> Staff
+> 
+[ArcadeLabs](https://discord.gg/AMgpWM5w57) is a community, VFX & development server.
 
+``I am currently maintaining Inferno (Advanced Punishment Core)``
+
+****
 ## Past Projects
 
 > **IndoPvP**
