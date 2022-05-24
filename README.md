@@ -6,12 +6,6 @@
 I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development for
 8 months (since, October 2021). I love to hear Music, Smart Work > Hard Work
 
-## Projects I’ve contributed
-
-* InfinityAnnouncer ( [Source Code](https://github.com/Ixf1nity/InfinityAnnouncer) )
-* Simple-API ( [Source Code](https://github.com/Ixf1nity/Simple-API) )
-*Many more private projects*
-
 ## Current Projects
 
 >  **BedWars Space**
