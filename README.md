@@ -4,7 +4,7 @@
 
 ## About Me
 I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development for
-7 months (since, October 2021). I love to hear Music, Smart Work > Hard Work
+8 months (since, October 2021). I love to hear Music, Smart Work > Hard Work
 
 ## Projects I’ve contributed
 
