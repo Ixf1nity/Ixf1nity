@@ -56,7 +56,7 @@ Server IP: `bedwars.space *(Maintenance)*`
 
 > **Crackpixel Network**
  * Date: (Wednesday) 04 May, 2022
- * Reason: Resigned, offline schools starting & lack of intrust.
+ * Reason: Resigned, offline schools starting & lack of interst.
 
 ****
 
