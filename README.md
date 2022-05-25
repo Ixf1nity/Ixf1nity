@@ -18,12 +18,6 @@ I am a Java Developer that is experienced with Minecraft Server Management and P
 Server IP: `bedwars.space *(Maintenance)*`
 
 ****
-> **Refine Development**
-> Developer
-> 
-[Refine Development](https://discord.gg/bxtqV2pZGj) is a development team that is aiming to provide quality plugins with cheap prices. it is well known for maintaining and founding [Carbon Spigot](https://polymart.org/resource/1-8-carbonspigot.1341)
-
-****
 > **CubeCrafter's Team**
 > Developer
 > 
