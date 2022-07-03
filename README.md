@@ -4,7 +4,7 @@
 
 ## About Me
 I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development for
-9 months (since, October 2021).
+9 months (since, October 2021). I can work with MongoDB, MySQL database.
 
 Most of my projects are not public ;( Sorry!!
 
