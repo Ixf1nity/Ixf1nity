@@ -4,9 +4,9 @@
 
 ## About Me
 I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development for
-9 months (since, October 2021). I love to hear Music, Smart Work > Hard Work
+9 months (since, October 2021).
 
-I dont have many public projects :(
+Most of my projects are not public ;( Sorry!!
 
 ## Github Statistics
 ![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
