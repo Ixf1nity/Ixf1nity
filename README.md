@@ -1,5 +1,5 @@
 
-<h1>Hey there, I'm Infinity</h1>
+<h1>👋 Hey there, I'm Infinity</h1>
 <h3>I'm a Java & Spigot Developer from India <img src="https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png" width="30px"></h3>
 
 ## About Me ![](https://visitor-badge.laobi.icu/badge?page_id=Ixf1nity.Ixf1nity&style=for-the-badge)
