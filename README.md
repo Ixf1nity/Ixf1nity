@@ -4,9 +4,9 @@
 
 ## About Me ![](https://visitor-badge.laobi.icu/badge?page_id=Ixf1nity.Ixf1nity&style=for-the-badge)
 I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development for
-9 months (since, October 2021). I can work with MongoDB, MySQL database.
+9 months (since, October 2021). experienced with MongoDB, MySQL database.
 
-> Lead-Developer @ ArcadeLabs
+@ ArcadeLabs
 ArcadeLabs one of the most well known community; currently working as lead-developer  
 managing java projects and also managing partnerships & marketing  
 
