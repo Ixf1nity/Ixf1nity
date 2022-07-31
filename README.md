@@ -6,7 +6,7 @@
 I am a Java Developer that is experienced with Minecraft Server Management and Plugin Development, experienced with MongoDB, MySQL database & other technologies.
 
 ## ArcadeLabs  
-Focusing on ArcadeLabs; one of the most well known community, currently working as lead-developer  
+Focusing on ArcadeLabs; one of the most well known community, currently working as manager.  
 managing java projects and also managing partnerships & marketing  
 
 ## Github Statistics
