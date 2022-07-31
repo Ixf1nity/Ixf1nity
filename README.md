@@ -7,7 +7,7 @@ I am a Java Developer that is experienced with Minecraft Server Management and P
 
 ## ArcadeLabs  
 Focusing on ArcadeLabs; one of the most well known community, currently working as manager.  
-managing java projects and also managing partnerships & marketing  
+handling java projects and also managing partnerships & marketing  
 
 ## Github Statistics
 ![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
