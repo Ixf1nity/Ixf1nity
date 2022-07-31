@@ -6,5 +6,7 @@
 I am a Java Developer that is focusing on minecraft server management and plugin development, experienced with technologies like MySQL, MongoDB, etc.
 I'm frequiently tring to get project ideas, but still failing; and that's also a reason I don't have public projects! ;( 
 
+# ArcadeLabs
+
 ## Github Statistics
 ![Infinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity&show_icons=true)
