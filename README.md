@@ -3,4 +3,5 @@
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=914882373110345728)
 #
 [![I6y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixf1nity)](https://github.com/anuraghazra/github-readme-stats)
-![Discord Banner 3](https://discordapp.com/api/guilds/913747614967689247/widget.png?style=banner3)
+![Discord Banner 3](https://discordapp.com/api/guilds/913747614967689247/widget.png?style=banner4)
+
